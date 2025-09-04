@@ -17,4 +17,4 @@
 - Caranzo, Mac Howard (**@Howardness**)
 - Tabungar, Steven Jan (**@Smuffinn**)
 - verano, joel (**@VeranoJoel**)
-- Saniel, Mitchel Gabrielle (**mortymier**)
+- Saniel, Mitchel Gabrielle (**@mortymier**)
